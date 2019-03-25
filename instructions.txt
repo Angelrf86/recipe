@@ -6,4 +6,5 @@
 * add less salt
 * add pepper
 * and mix well
+* open the bag of nachos
 * enjoy!
