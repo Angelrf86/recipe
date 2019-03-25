@@ -1,2 +1,4 @@
+# ignore the cache from python
 __pycache__
+# ignore all py compile files
 *.pyc
